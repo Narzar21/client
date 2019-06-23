@@ -1,0 +1,3 @@
+[submodule "react-backend"]
+	path = react-backend
+	url = ../react-backend.git
